@@ -1,4 +1,4 @@
-# ETL-Project - Monash Data Analytics Bootcamp
+# FAST FOOD CHAIN LOCATIONS vs. CENSUS DATA IN AMERICA - ETL-PROJECT
 ---
 
 ## Background
